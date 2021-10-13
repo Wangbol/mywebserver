@@ -1,0 +1,13 @@
+@charset "uf-8";
+img {
+    margin: 24px auto;
+    margin-bottom: 30px;
+    display: block;
+}
+div {
+    font-size: 34px;
+    font-family: songti;
+    color:#DF0887 ;
+    text-align: center;
+    text-decoration: none;
+}
